@@ -1,5 +1,6 @@
 # SQL_project
 
+
 Worked on Customer and Sales tables using multiple Case statements and joins
 
 **Steps**
